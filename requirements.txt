@@ -1,0 +1,5 @@
+discord.py[voice]>=2.4,<3
+PyNaCl>=1.5,<2
+pyttsx3>=2.98,<3
+python-dotenv>=1.0,<2
+
